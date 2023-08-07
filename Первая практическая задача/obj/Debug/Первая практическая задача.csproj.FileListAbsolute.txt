@@ -1,0 +1,8 @@
+C:\Users\Matvey\source\repos\Первая практическая задача\Первая практическая задача\bin\Debug\Первая практическая задача.exe.config
+C:\Users\Matvey\source\repos\Первая практическая задача\Первая практическая задача\bin\Debug\Первая практическая задача.exe
+C:\Users\Matvey\source\repos\Первая практическая задача\Первая практическая задача\bin\Debug\Первая практическая задача.pdb
+C:\Users\Matvey\source\repos\Первая практическая задача\Первая практическая задача\obj\Debug\Первая практическая задача.csproj.AssemblyReference.cache
+C:\Users\Matvey\source\repos\Первая практическая задача\Первая практическая задача\obj\Debug\Первая практическая задача.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matvey\source\repos\Первая практическая задача\Первая практическая задача\obj\Debug\Первая практическая задача.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\source\repos\Первая практическая задача\Первая практическая задача\obj\Debug\Первая практическая задача.exe
+C:\Users\Matvey\source\repos\Первая практическая задача\Первая практическая задача\obj\Debug\Первая практическая задача.pdb
