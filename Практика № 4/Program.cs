@@ -37,8 +37,8 @@ namespace Практика___4
                         exchangeCurrencyCount *= Convert.ToSingle(UsdToRub);
                         rublesInWallet += exchangeCurrencyCount;
                         Console.WriteLine($"Вам зачислено {exchangeCurrencyCount} руб., теперь у вас на счёте {rublesInWallet} рублей.");
-                        Console.WriteLine($"У вас осталось {dollarsInWallet} дешёвых американских грязных бумажек," +
-                                          $" было снято {exchangeCurrencyCount / UsdToRub}");
+                        Console.WriteLine($"У вас осталось {dollarsInWallet}$," +
+                                          $" было снято {exchangeCurrencyCount / UsdToRub}$.");
                     }
                     else
                         Console.WriteLine("Извините, вы ввели число больше, чем у вас есть в кашельке, вы бы могли пополнить ваш кошелёк, " +
@@ -51,8 +51,8 @@ namespace Практика___4
                     exchangeCurrencyCount = Convert.ToSingle(Console.ReadLine());
                     if (rublesInWallet >= exchangeCurrencyCount)
                     {
-                        exchangeCurrencyCount /= Convert.ToSingle(RubToUsd);
                         rublesInWallet -= exchangeCurrencyCount;
+                        exchangeCurrencyCount /= Convert.ToSingle(RubToUsd);
                         dollarsInWallet += exchangeCurrencyCount;
                         Console.WriteLine($"Вам зачислено {exchangeCurrencyCount} Долларов., теперь у вас на счёте {dollarsInWallet}$.");
                         Console.WriteLine($"У вас осталось {rublesInWallet}руб.," +
@@ -61,9 +61,11 @@ namespace Практика___4
                     else
                         Console.WriteLine("Извините, вы ввели число больше, чем у вас есть в кашельке, вы бы могли пополнить ваш кошелёк, " +
                                          "но я пока не знаю как это закодить, возможно в будующем сделаю.");
+                    Console.ReadLine();
                     break;
                     default:
                     Console.WriteLine("Не опознанная операция.");
+                    Console.ReadLine();
                     break;
 
             }
