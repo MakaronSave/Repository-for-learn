@@ -13,7 +13,7 @@ namespace Первая_практическая_задача
             int health, armor, damage;
             Console.Write($"Введите количество здоровья: ");
             health = Convert.ToInt32(Console.ReadLine());
-            Console.Write($"Введите количество брони: ");
+            Console.Write($"Введите процент блокирования урона");
             armor = Convert.ToInt32(Console.ReadLine());
             Console.Write($"Введите количество урона: ");
             damage = Convert.ToInt32(Console.ReadLine());
