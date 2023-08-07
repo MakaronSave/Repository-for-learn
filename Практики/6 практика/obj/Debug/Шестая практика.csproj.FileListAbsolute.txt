@@ -1,0 +1,16 @@
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Шестая практика\bin\Debug\Шестая практика.exe.config
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Шестая практика\bin\Debug\Шестая практика.exe
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Шестая практика\bin\Debug\Шестая практика.pdb
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Шестая практика\obj\Debug\Шестая практика.csproj.AssemblyReference.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Шестая практика\obj\Debug\Шестая практика.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Шестая практика\obj\Debug\Шестая практика.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Шестая практика\obj\Debug\Шестая практика.exe
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Шестая практика\obj\Debug\Шестая практика.pdb
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\6 практика\bin\Debug\Шестая практика.exe.config
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\6 практика\bin\Debug\Шестая практика.exe
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\6 практика\bin\Debug\Шестая практика.pdb
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\6 практика\obj\Debug\Шестая практика.csproj.AssemblyReference.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\6 практика\obj\Debug\Шестая практика.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\6 практика\obj\Debug\Шестая практика.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\6 практика\obj\Debug\Шестая практика.exe
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\6 практика\obj\Debug\Шестая практика.pdb
