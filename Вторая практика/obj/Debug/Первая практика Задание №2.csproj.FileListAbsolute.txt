@@ -6,3 +6,11 @@ C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Первая пр�
 C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Первая практика Задание №2\bin\Debug\Первая практика Задание №2.pdb
 C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Первая практика Задание №2\obj\Debug\Первая практика Задание №2.exe
 C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Первая практика Задание №2\obj\Debug\Первая практика Задание №2.pdb
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Вторая практика\bin\Debug\Первая практика Задание №2.exe.config
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Вторая практика\bin\Debug\Первая практика Задание №2.exe
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Вторая практика\bin\Debug\Первая практика Задание №2.pdb
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Вторая практика\obj\Debug\Первая практика Задание №2.csproj.AssemblyReference.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Вторая практика\obj\Debug\Первая практика Задание №2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Вторая практика\obj\Debug\Первая практика Задание №2.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Вторая практика\obj\Debug\Первая практика Задание №2.exe
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Вторая практика\obj\Debug\Первая практика Задание №2.pdb

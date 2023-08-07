@@ -26,7 +26,7 @@ namespace Первая_практика_Задание__2
             food *= Convert.ToInt32(isAbleToPay);
             money -= food * inFoodUnitPrise;
             Console.Write($"Вы купили еды: {food} едениц, у вас осталось {money} монет.");
-            Console.ReadLine();
+            Console.ReadKey();
 
         }
     }

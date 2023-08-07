@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-Program",
+      "appliesTo": "Вторая практика/Program.cs",
+      "type": "launch"
+    }
+  ]
+}
