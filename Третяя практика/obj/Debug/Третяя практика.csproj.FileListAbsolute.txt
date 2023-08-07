@@ -1,0 +1,8 @@
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Третяя практика\bin\Debug\Третяя практика.exe.config
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Третяя практика\bin\Debug\Третяя практика.exe
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Третяя практика\bin\Debug\Третяя практика.pdb
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Третяя практика\obj\Debug\Третяя практика.csproj.AssemblyReference.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Третяя практика\obj\Debug\Третяя практика.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Третяя практика\obj\Debug\Третяя практика.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Третяя практика\obj\Debug\Третяя практика.exe
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Третяя практика\obj\Debug\Третяя практика.pdb
