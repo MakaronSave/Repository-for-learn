@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("Пятая практика")]
+[assembly: AssemblyTitle("5 Практика")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Пятая практика")]
+[assembly: AssemblyProduct("5 Практика")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("a52ec1d9-c29f-4355-8293-8dd59c848d9c")]
+[assembly: Guid("1dc71603-bfc9-4af6-a6d3-0dddb3abe31c")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

@@ -6,3 +6,11 @@ C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\5 Практика
 C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\5 Практика\obj\Debug\5 Практика.csproj.CoreCompileInputs.cache
 C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\5 Практика\obj\Debug\5 Практика.exe
 C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\5 Практика\obj\Debug\5 Практика.pdb
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\5 Практика\bin\Debug\5 Практика.exe.config
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\5 Практика\bin\Debug\5 Практика.exe
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\5 Практика\bin\Debug\5 Практика.pdb
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\5 Практика\obj\Debug\5 Практика.csproj.AssemblyReference.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\5 Практика\obj\Debug\5 Практика.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\5 Практика\obj\Debug\5 Практика.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\5 Практика\obj\Debug\5 Практика.exe
+C:\Users\Matvey\Source\Repos\MakaronSave\Repository-for-learn\Практики\5 Практика\obj\Debug\5 Практика.pdb
